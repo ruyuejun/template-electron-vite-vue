@@ -1,0 +1,9 @@
+# http://editorconfig.org
+
+root=true
+
+# 表示所有文件通用，[*.md]表示仅适用于md
+[*]
+charset = utf-8
+indent_style = space
+indent_size = 2
